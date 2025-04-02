@@ -9,4 +9,4 @@ for i in range(1, 10):  # 1부터 9까지 반복
     for j in range(1, 10):  # 1부터 9까지 반복
         print(f"{i} x {j} = {i*j}", end="\t")  # 곱셈 결과 출력
     print()  # 한 줄 끝날 때마다 줄 바꿈
-```bash
+```BASH
