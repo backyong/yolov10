@@ -4,7 +4,6 @@
 ## 1학년
 ![aa](https://github.com/user-attachments/assets/6a2db06e-0902-4fa9-a3f8-017d9ba4a6e2)
 
-
 ```bash
 # 구구단을 출력하는 Python 코드
 for i in range(1, 10):  # 1부터 9까지 반복
