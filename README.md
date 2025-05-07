@@ -12,6 +12,7 @@ for i in range(1, 10):  # 1부터 9까지 반복
 ```
 https://docs.ultralytics.com/ko/models/yolov8/
 ![image](https://github.com/user-attachments/assets/a98d36de-af16-42e2-9246-af4c6479b5a1)
+![image](https://github.com/user-attachments/assets/5b80df87-b3eb-4cc3-9da7-80e91cabc270)
 ##YOLOv8 주요 기능
 ##고급 백본 및 넥 아키텍처: YOLOv8 최첨단 백본 및 넥 아키텍처를 채택하여 특징 추출 및 객체 감지 성능이 향상되었습니다.
 ##앵커 프리 스플릿 Ultralytics 헤드: YOLOv8 앵커 프리 스플릿 Ultralytics 헤드를 채택하여 앵커 기반 접근 방식에 비해 더 나은 정확도와 효율적인 탐지 프로세스에 기여합니다.
