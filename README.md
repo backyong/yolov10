@@ -26,20 +26,27 @@ chatgpt.al
 cursor.ai
 perpiexity.ai
 그래픽 처리 장치 또는 GPU라고도 하는 그래픽 처리 장치는 비디오 카드, 마더보드, 휴대폰 및 개인용 컴퓨터(PC)를 비롯한 다양한 장치에서 컴퓨터 그래픽 및 이미지 처리 속도를 높이도록 설계된 전자 회로
-1.사진 1.jpg가 바탕화면에 있어
-2.코랩에서 실행할거야
-3.content밑에 1.jpg저장하고, yoIov8n.pt파일도 content 밑에 넣을거야
-4.이미지 인식하기 위해서 yoIov8을 사용하고, yoIov8n.pt파일을 다운로드하게 해줘
-5.인식하는 코드를 짜줘. 결과는 output.jpg로 저장해줘
-6.결과를 코랩에서 보여줘
-1.영상 xxxx 링크 주소야. 이걸 코랩에서 다운로드하게 해줘
-2.코랩에서 실행할거야
-3.content밑에 1.jpg저장하고, yoIov8x.pt파일도 content 밑에 넣을거야
-4.이미지 인식하기 위해서 yoIov8을 사용하고, yoIov8n.pt파일을 다운로드하게 해줘
-5.인식하는 코드를 짜줘. 결과는 output.mp4로 저장해줘
-6.결과를 코랩에서 보여줘
 
-open colab 눌러서 코랩가기
- 
-엣지 디바이스
-런타임 T4 gpu
+yolov10 > repository
+github
+predefined model
+claude.ai
+chatgpt.al
+cursor.ai
+perpiexity.ai
+그래픽 처리 장치 또는 GPU라고도 하는 그래픽 처리 장치는 비디오 카드, 마더보드, 휴대폰 및 개인용 컴퓨터(PC)를 비롯한 다양한 장치에서 컴퓨터 그래픽 및 이미지 처리 속도를 높이도록 설계된 전자 회로
+##1.사진 1.jpg가 바탕화면에 있어
+##2.코랩에서 실행할거야
+##3.content밑에 1.jpg저장하고, yoIov8n.pt파일도 content 밑에 넣을거야
+##4.이미지 인식하기 위해서 yoIov8을 사용하고, yoIov8n.pt파일을 다운로드하게 해줘
+##5.인식하는 코드를 짜줘. 결과는 output.jpg로 저장해줘
+##6.결과를 코랩에서 보여줘
+##1.영상 xxxx 링크 주소야. 이걸 코랩에서 다운로드하게 해줘
+##2.코랩에서 실행할거야
+##3.content밑에 1.jpg저장하고, yoIov8x.pt파일도 content 밑에 넣을거야
+##4.이미지 인식하기 위해서 yoIov8을 사용하고, yoIov8n.pt파일을 다운로드하게 해줘
+##5.인식하는 코드를 짜줘. 결과는 output.mp4로 저장해줘
+##6.결과를 코랩에서 보여줘
+##open colab 눌러서 코랩가기
+##엣지 디바이스
+##런타임 T4 gpu
